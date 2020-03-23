@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Hà Tuấn Phong",
+    "studentId": "16020263",
+    "className": "K61-CACLC2",
+    "phoneNumber": "0915141031",
+    "address": "Hoàng Hoa Thám, Ba Đình, Hà Nội",
+    "email": "phonghatuan1998@gmail.com"
+  },
+  {
+    "fullName": "Nguyễn Ngọc Lâm",
+    "studentId": "16022408",
+    "className": "K61-CACLC2",
+    "phoneNumber": "0333064141",
+    "address": "Nam Từ Liêm, Hà Nội",
+    "email": "ngoclamc3pro@gmail.com"
+  },
+  {
+    "fullName": "Lê Trung Thông",
+    "studentId": "16020286",
+    "className": "K61-CACLC2",
+    "phoneNumber": "0356859900",
+    "address": "Hải Phòng",
+    "email": "thongletrung166@gmail.com"
+  },
+  {
+    "fullName": "Nguyễn Minh Hoàng",
+    "studentId": "16020230",
+    "className": "K61-CACLC2",
+    "phoneNumber": "0943767047",
+    "address": "Nam Định",
+    "email": "minhhoang.tiger@gmail.com"
+  }
+]
